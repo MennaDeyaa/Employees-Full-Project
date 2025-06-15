@@ -95,7 +95,7 @@ ng serve
 
 ---
 
-## 📷 Screenshots or Video Demo
+## 📷 Video Demo
 
 👉 [Click to Watch Demo](https://drive.google.com/file/d/1oL3I0sNRHnLBNUMM9ZBDS5rBFmis7tHO/view?usp=sharing)
 
