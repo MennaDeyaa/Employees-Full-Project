@@ -1,0 +1,166 @@
+<!-- home.component.html -->
+<div class="employee-management">
+  <!-- Header Section (formerly app-header) -->
+  <div class="header">
+    <h2>{{'general.Manage Employees' | translate}}</h2>
+    <div class="header-controls">
+      <div class="lang-select">
+  <select [(ngModel)]="currentLang" (change)="changeLang($event)"  >
+    <!-- [ngClass]="currentLang" -->
+    <option value="en">English</option>
+    <option value="ar">  ...عربي </option>
+  </select>
+</div>
+      <!-- Search Section -->
+      <div class="search-container">
+        <input 
+          type="text" 
+          class="search-input" 
+           [placeholder]="'general.Search employees' | translate" 
+          [value]="searchTerm"
+          (input)="onSearchChange($event)">
+        <button 
+          *ngIf="searchTerm" 
+          class="clear-search-btn" 
+          (click)="clearSearch()"
+          title="Clear search">
+          ✕
+        </button>
+      </div>
+      <!-- Action Buttons -->
+      <div class="header-buttons">
+        <button class="btn btn-danger"
+                [disabled]="selectedEmployees.length === 0"
+                (click)="onDeleteMultiple(selectedEmployees)">
+          {{'buttons.deleteSelected' | translate}} ({{selectedEmployees.length}})
+        </button>
+        <button class="btn btn-success" (click)="onAddEmployee()">
+          {{'buttons.add' | translate}}
+        </button>
+        <!-- 🔻 الزر الجديد اللي بيروح للرابط -->
+  <button class="btn btn-primary" 
+        (click)="goToBackendLink()" 
+        [disabled]="isLoading">
+  <span *ngIf="!isLoading">{{ 'buttons.openLink' | translate }}</span>
+  <span *ngIf="isLoading">
+    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+    Loading...
+  </span>
+</button>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Employee Table -->
+  <div class="table-container">
+    <table class="employee-table">
+      <thead>
+        <tr>
+          <th>
+            <input type="checkbox"
+                   [checked]="selectedEmployees.length === employees.length && employees.length > 0"
+                   (change)="toggleAllEmployees()">
+          </th>
+          <th>#</th>
+          <!-- <th>{{'tableHeaders.name' | translate}}</th>
+          <th>{{'tableHeaders.email' | translate}}</th> -->
+          <th class="sortable-header">
+            <div class="header-content">
+              <span>{{'tableHeaders.name' | translate}}</span>
+              <div class="sort-buttons">
+                <button 
+                  class="sort-btn" 
+                  [class.active]="sortColumn === 'Name' && sortDirection === 'ASC'"
+                  (click)="sortByNameASC()"
+                  title="Sort Name Ascending">
+                  ↑
+                </button>
+                <button 
+                  class="sort-btn" 
+                  [class.active]="sortColumn === 'Name' && sortDirection === 'DESC'"
+                  (click)="sortByNameDESC()"
+                  title="Sort Name Descending">
+                  ↓
+                </button>
+              </div>
+            </div>
+          </th>
+          <th class="sortable-header">
+            <div class="header-content">
+              <span>{{'tableHeaders.email' | translate}}</span>
+              <div class="sort-buttons">
+                <button 
+                  class="sort-btn" 
+                  [class.active]="sortColumn === 'Email' && sortDirection === 'ASC'"
+                  (click)="sortByEmailASC()"
+                  title="Sort Email Ascending">
+                  ↑
+                </button>
+                <button 
+                  class="sort-btn" 
+                  [class.active]="sortColumn === 'Email' && sortDirection === 'DESC'"
+                  (click)="sortByEmailDESC()"
+                  title="Sort Email Descending">
+                  ↓
+                </button>
+              </div>
+            </div>
+          </th>
+          <th>{{'tableHeaders.address' | translate}}</th>
+          <th>{{'tableHeaders.phone' | translate}}</th>
+          <th>{{'tableHeaders.actions' | translate}}</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let employee of paginatedEmployees ;  let i = index">
+          <td>
+            <input type="checkbox"
+                   [checked]="selectedEmployees.includes(employee.id)"
+                   (change)="toggleEmployeeSelection(employee.id)">
+          </td>
+          <td>{{ (pageNumber - 1) * pageSize + i + 1 }}</td> 
+          <td>{{ employee.name }}</td>
+          <td>{{ employee.email }}</td>
+          <td>{{ employee.address }}</td>
+          <td>{{ employee.phone }}</td>
+          <td>
+            <button class="btn-icon edit" (click)="openEditModal(employee)">
+              ✏️
+            </button>
+            <button class="btn-icon delete" (click)="onDeleteOne(employee.id)">
+              🗑️
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+ <!-- Pagination -->
+  <div class="pagination-container">
+    <button 
+      class="pagination-btn prev-btn" 
+      [disabled]="pageNumber <= 1"
+      (click)="previousPage()">
+      <span class="pagination-icon">←</span>
+      {{'buttons.previous' | translate}}
+    </button>
+    
+    <div class="page-info">
+      <span class="page-text">{{'general.page' | translate}} {{pageNumber}}</span>
+    </div>
+    
+    <button 
+      class="pagination-btn next-btn" 
+      [disabled]="pageNumber >= maxPages"
+      (click)="nextPage()">
+      {{'buttons.next' | translate}}
+      <span class="pagination-icon">→</span>
+    </button>
+  </div>
+
+  <router-outlet></router-outlet>
+
+
+</div>

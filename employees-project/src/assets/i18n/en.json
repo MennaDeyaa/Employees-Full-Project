@@ -1,0 +1,34 @@
+{
+     "buttons": {
+    "add": "Add New Employee",
+    "deleteSelected": "Delete",
+    "previous": "Previous",
+    "next": "Next",
+     "addbutton": "Add",
+      "editbutton": "Edit",
+      "deletebutton": "Delete",
+      "cancelbutton": "Cancel",
+      "openLink": "Create Meeting"
+  },
+  "headers": {
+      "addEmployee": "Add Employee",
+      "editEmployee": "Edit Employee",
+      "deleteEmployee": "Delete Employee"
+    },
+  "tableHeaders": {
+    "name": "Name",
+    "email": "Email",
+    "address": "Address",
+    "phone": "Phone",
+    "actions": "Actions"
+  },
+    "general":{
+        "Manage Employees":"Manage Employees",
+        "Search employees":"Search employees...",
+        "page":"Page"
+    },
+    "messages": {
+      "deleteConfirmation": "Are you sure you want to delete {{count}} employee{{count > 1 ? 's' : ''}}?"
+    }
+
+}

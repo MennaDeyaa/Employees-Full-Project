@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Employees-Full-Project\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.infrastructure\\employeemanagement.infrastructure.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\employeemanagement.infrastructure.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.api\\controllers\\zoomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\controllers\\zoomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.api\\newfolder\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\newfolder\\otprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.api\\newfolder\\zoomresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\newfolder\\zoomresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD83CB3-8951-41A7-B305-EDA12B6A8EBF}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.application\\application\\interfaces\\izoomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD83CB3-8951-41A7-B305-EDA12B6A8EBF}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\application\\interfaces\\izoomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.infrastructure\\newfolder\\zoomresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\newfolder\\zoomresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.infrastructure\\services\\zoomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\services\\zoomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.infrastructure\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.infrastructure\\employeemanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\employeemanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.infrastructure\\services\\phonevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\services\\phonevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.infrastructure\\services\\otpsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\services\\otpsenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.infrastructure\\services\\otpgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\services\\otpgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.api\\employeemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{642E3071-4E16-49CC-AFE2-9450D3AC8818}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\employeemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD83CB3-8951-41A7-B305-EDA12B6A8EBF}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.application\\application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD83CB3-8951-41A7-B305-EDA12B6A8EBF}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD83CB3-8951-41A7-B305-EDA12B6A8EBF}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.application\\application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD83CB3-8951-41A7-B305-EDA12B6A8EBF}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.infrastructure\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|e:\\employees-full-project\\employeemanagement\\employeemanagement.infrastructure\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384B153-7969-4AA9-A79E-3E2246D15CC0}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeManagement.Infrastructure.csproj.Backup.tmp",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj.Backup.tmp",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj.Backup.tmp",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj.Backup.tmp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-15T00:01:54.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IZoomService.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Application\\Application\\Interfaces\\IZoomService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Application\\Interfaces\\IZoomService.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Application\\Application\\Interfaces\\IZoomService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Application\\Interfaces\\IZoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:28:59.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZoomService.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Services\\ZoomService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Services\\ZoomService.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Services\\ZoomService.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Services\\ZoomService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:27:18.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "zoomResponse.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\NewFolder\\zoomResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\NewFolder\\zoomResponse.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\NewFolder\\zoomResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\NewFolder\\zoomResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:41:21.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "zoomResponse.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\NewFolder\\zoomResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\NewFolder\\zoomResponse.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\NewFolder\\zoomResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\NewFolder\\zoomResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T08:29:01.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Program.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:03:26.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZoomController.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\ZoomController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Controllers\\ZoomController.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\ZoomController.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Controllers\\ZoomController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:56:01.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OtpRequest.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\NewFolder\\OtpRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\NewFolder\\OtpRequest.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\NewFolder\\OtpRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\NewFolder\\OtpRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:35:26.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAIwH8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:59:52.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OtpGenerator.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Services\\OtpGenerator.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Services\\OtpGenerator.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Services\\OtpGenerator.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Services\\OtpGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:50:51.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhoneValidationService.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Services\\PhoneValidationService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Services\\PhoneValidationService.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Services\\PhoneValidationService.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Services\\PhoneValidationService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:39:47.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OtpSenderService.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Services\\OtpSenderService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Services\\OtpSenderService.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Services\\OtpSenderService.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Services\\OtpSenderService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:51:41.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Models\\Employee.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:00:06.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\appsettings.Development.json",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\appsettings.Development.json",
+              "RelativeToolTip": "EmployeeManagement.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T09:55:44.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\appsettings.json",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T09:46:13.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAiwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:25:25.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Services\\EmployeeService.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:01:39.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Application\\Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Application\\Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:47:51.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Application\\Application\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Application\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Application\\Application\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Application\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:44:31.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeManagement.API.csproj",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "RelativeToolTip": "EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T08:29:51.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeManagement.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+              "ToolTip": "E:\\Employees-Full-Project\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T08:01:48.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

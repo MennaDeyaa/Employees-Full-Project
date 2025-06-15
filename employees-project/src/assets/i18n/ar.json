@@ -1,0 +1,32 @@
+{
+    "buttons": {
+    "add": "إضافة موظف جديد",
+    "deleteSelected": "حذف",
+    "previous": "السابق",
+    "next": "التالي",
+    "addbutton": "إضافة",
+      "editbutton": "تعديل",
+      "deletebutton": "حذف",
+      "cancelbutton": "إلغاء",
+      "openLink": "انشئ اجتماع"
+  },
+  "tableHeaders": {
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "address": "العنوان",
+    "phone": "رقم الهاتف",
+    "actions": "الإجراءات"
+  },"headers": {
+      "addEmployee": "إضافة موظف",
+      "editEmployee": "تعديل موظف",
+      "deleteEmployee": "حذف موظف"
+    },
+    "general":{
+        "Manage Employees":"التحكم في بيانات الموظفين",
+        "Search employees":"ابحث عن الموظفين...",
+        "page":"صفحة"
+    },
+    "messages": {
+      "deleteConfirmation": "هل أنت متأكد من حذف {{count}} موظف{{count > 1 ? 'ين' : ''}}؟"
+    }
+}

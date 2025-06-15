@@ -1,0 +1,84 @@
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.deps.json
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.runtimeconfig.json
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.dll
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.pdb
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfo.cs
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.dll
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\refint\EmployeeManagement.Domain.dll
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.pdb
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.genruntimeconfig.cache
+C:\Users\pc\Downloads\employee task\employee task\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\ref\EmployeeManagement.Domain.dll
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.deps.json
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.runtimeconfig.json
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.dll
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.pdb
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfo.cs
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.dll
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\refint\EmployeeManagement.Domain.dll
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.pdb
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.genruntimeconfig.cache
+C:\Users\User\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\ref\EmployeeManagement.Domain.dll
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.deps.json
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.runtimeconfig.json
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.dll
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.pdb
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfo.cs
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.dll
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\refint\EmployeeManagement.Domain.dll
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.pdb
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.genruntimeconfig.cache
+C:\Users\pc\Downloads\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\ref\EmployeeManagement.Domain.dll
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.deps.json
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.runtimeconfig.json
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.dll
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.pdb
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfo.cs
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.dll
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\refint\EmployeeManagement.Domain.dll
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.pdb
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.genruntimeconfig.cache
+C:\Users\CRIZMA MEGA STORE\Downloads\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\ref\EmployeeManagement.Domain.dll
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.deps.json
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.runtimeconfig.json
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.dll
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.pdb
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.AssemblyReference.cache
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfo.cs
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.dll
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\refint\EmployeeManagement.Domain.dll
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.pdb
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.genruntimeconfig.cache
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\ref\EmployeeManagement.Domain.dll
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.deps.json
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.runtimeconfig.json
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.dll
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net8.0\EmployeeManagement.Domain.pdb
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.AssemblyReference.cache
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.AssemblyInfo.cs
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.dll
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\refint\EmployeeManagement.Domain.dll
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.pdb
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\EmployeeManagement.Domain.genruntimeconfig.cache
+E:\Employees-Full-Project\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net8.0\ref\EmployeeManagement.Domain.dll
